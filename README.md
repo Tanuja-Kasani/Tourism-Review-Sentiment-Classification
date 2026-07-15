@@ -54,9 +54,15 @@ A Flask web application was developed and deployed on PythonAnywhere to provide 
 
 ## 🌐 Live Demo
 
-https://tanujakasani.pythonanywhere.com/
+🌐 Live Demo: https://tanujakasani.pythonanywhere.com/
 
 ---
+## 📂 Dataset
+
+- Source: Kaggle Tourism Reviews Dataset
+- Type: Text Reviews
+- Target: Positive, Negative, Neutral Sentiment
+
 
 ## 📂 Project Workflow
 
@@ -104,3 +110,7 @@ Flask Deployment
 ## 👩‍💻 Developer
 
 **Tanuja Kasani**
+
+Final Year B.Tech Student
+
+GitHub: https://github.com/Tanuja-Kasani
